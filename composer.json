@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "url": "https://github.com/manaftryzens/testcomposer.git",
+            "type": "git"
+        }
+    ],
+    "require": {
+        "Test/Composer": "dev-master"
+    }
+}
